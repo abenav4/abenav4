@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @abenav4
-- 👀 I’m interested in webdev! 
-- 🌱 I’m currently learning some back-end technologies
+- 👋 Hi, I’m Abenav :) 
+- 🌱 I'm into everything webdev and I'm always trying to learn new things!
 
 <!---
 abenav4/abenav4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
