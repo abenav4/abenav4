@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abenav :) 
+- :metal:&#127999; Hello, I'm Abenav! I'm a student at the University of Toronto studying Computer Science :)
 - 🌱 I'm into everything webdev and I'm always trying to learn new things!
 
 <!---
