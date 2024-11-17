@@ -1,4 +1,12 @@
-- :metal:&#127999; Hello, I'm Abenav! I'm a student at the University of Toronto studying Computer Science :)
+```
+                                                                                ## #
+                         ^                             ^                       # #                      
+      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^              
+  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^ 
+ /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
+ .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
+```
+- :metal:&#127999; Hello, I'm Abenav! I'm a recent graduate from the University of Toronto. I studied Computer Science! :)
 - 🌱 I'm into everything regarding web development and security engineering and I'm always trying to learn new things!
 
 <!---
